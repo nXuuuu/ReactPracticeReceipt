@@ -1,0 +1,19 @@
+[
+  {
+    "storeName": "Supermart Plaza",
+    "date": "2026-07-16 12:20 PM",
+    "items": [
+      { "name": "Organic Whole Milk", "quantity": 2, "price": 4.50 },
+      { "name": "Whole Wheat Bread", "quantity": 1, "price": 2.99 },
+      { "name": "Fresh Bananas (lb)", "quantity": 1.5, "price": 1.20 },
+      { "name": "Greek Yogurt Cups", "quantity": 4, "price": 1.25 }
+    ],
+    "payment": [
+      "Subtotal: $16.79",
+      "Tax (8%): $1.34",
+      "Total Paid: $18.13",
+      "Payment Method: Visa ending in 4242"
+    ]
+  }
+]
+
